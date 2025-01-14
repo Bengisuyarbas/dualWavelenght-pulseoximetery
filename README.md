@@ -17,10 +17,12 @@ The **Dual-Wavelength Pulse Oximeter** is a wearable device that measures heart 
 - [License](#license)
 
 ## Hardware Setup
-![Pulse Oximeter Setup](path/to/photo.png)  
+  
 *Photo showing the physical system hardware, including the MAX30100, Arduino NANO ESP32, and other components.*
 
 **Wiring Diagram**:  
+![Block Diagram]![Uploading diagram.PNG…]()
+.png)
 *Include a clear diagram showing all the connections between the MAX30100, Arduino NANO ESP32, and other components used in your project.*
 
 ## Electrical Specifications
